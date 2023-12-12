@@ -1,0 +1,14 @@
+C:\Users\Gian\Documents\Cursos\Projetos-VS-Code\Projetos-Em-C#\ConversorDeMoedas\ConversorMoedas\bin\Debug\net7.0\ConversorMoedas.exe
+C:\Users\Gian\Documents\Cursos\Projetos-VS-Code\Projetos-Em-C#\ConversorDeMoedas\ConversorMoedas\bin\Debug\net7.0\ConversorMoedas.deps.json
+C:\Users\Gian\Documents\Cursos\Projetos-VS-Code\Projetos-Em-C#\ConversorDeMoedas\ConversorMoedas\bin\Debug\net7.0\ConversorMoedas.runtimeconfig.json
+C:\Users\Gian\Documents\Cursos\Projetos-VS-Code\Projetos-Em-C#\ConversorDeMoedas\ConversorMoedas\bin\Debug\net7.0\ConversorMoedas.dll
+C:\Users\Gian\Documents\Cursos\Projetos-VS-Code\Projetos-Em-C#\ConversorDeMoedas\ConversorMoedas\bin\Debug\net7.0\ConversorMoedas.pdb
+C:\Users\Gian\Documents\Cursos\Projetos-VS-Code\Projetos-Em-C#\ConversorDeMoedas\ConversorMoedas\obj\Debug\net7.0\ConversorMoedas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gian\Documents\Cursos\Projetos-VS-Code\Projetos-Em-C#\ConversorDeMoedas\ConversorMoedas\obj\Debug\net7.0\ConversorMoedas.AssemblyInfoInputs.cache
+C:\Users\Gian\Documents\Cursos\Projetos-VS-Code\Projetos-Em-C#\ConversorDeMoedas\ConversorMoedas\obj\Debug\net7.0\ConversorMoedas.AssemblyInfo.cs
+C:\Users\Gian\Documents\Cursos\Projetos-VS-Code\Projetos-Em-C#\ConversorDeMoedas\ConversorMoedas\obj\Debug\net7.0\ConversorMoedas.csproj.CoreCompileInputs.cache
+C:\Users\Gian\Documents\Cursos\Projetos-VS-Code\Projetos-Em-C#\ConversorDeMoedas\ConversorMoedas\obj\Debug\net7.0\ConversorMoedas.dll
+C:\Users\Gian\Documents\Cursos\Projetos-VS-Code\Projetos-Em-C#\ConversorDeMoedas\ConversorMoedas\obj\Debug\net7.0\refint\ConversorMoedas.dll
+C:\Users\Gian\Documents\Cursos\Projetos-VS-Code\Projetos-Em-C#\ConversorDeMoedas\ConversorMoedas\obj\Debug\net7.0\ConversorMoedas.pdb
+C:\Users\Gian\Documents\Cursos\Projetos-VS-Code\Projetos-Em-C#\ConversorDeMoedas\ConversorMoedas\obj\Debug\net7.0\ConversorMoedas.genruntimeconfig.cache
+C:\Users\Gian\Documents\Cursos\Projetos-VS-Code\Projetos-Em-C#\ConversorDeMoedas\ConversorMoedas\obj\Debug\net7.0\ref\ConversorMoedas.dll
